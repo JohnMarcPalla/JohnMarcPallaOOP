@@ -1,0 +1,13 @@
+C:\Users\johnm\source\repos\Clock\bin\Debug\Clock.exe.config
+C:\Users\johnm\source\repos\Clock\bin\Debug\Clock.exe
+C:\Users\johnm\source\repos\Clock\bin\Debug\Clock.pdb
+C:\Users\johnm\source\repos\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\johnm\source\repos\Clock\obj\Debug\Clock.Form1.resources
+C:\Users\johnm\source\repos\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\johnm\source\repos\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\johnm\source\repos\Clock\obj\Debug\Clock.exe
+C:\Users\johnm\source\repos\Clock\obj\Debug\Clock.pdb
+C:\Users\johnm\source\repos\Clock\bin\Debug\Clock.exe.manifest
+C:\Users\johnm\source\repos\Clock\bin\Debug\Clock.application
+C:\Users\johnm\source\repos\Clock\obj\Debug\Clock.exe.manifest
+C:\Users\johnm\source\repos\Clock\obj\Debug\Clock.application
